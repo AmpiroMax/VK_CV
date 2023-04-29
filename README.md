@@ -6,13 +6,9 @@ Project for search of the best model on sport images classification task.
 
 Competition on [kaggle](https://www.kaggle.com/competitions/vk-made-sports-image-classification) as a HW of VK MADE CV course
 
-## TODO
+## Working pipeline
 
-1. Train different simple classification models
-2. Treat imballance of classes
-3. Metric learning
-4. Metric learning with latent memory
-5. Ways of cheat on testset
+The pipeline is located at `experiments/experiments.ipynb`
 
 ## References
 
